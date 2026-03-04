@@ -25,3 +25,4 @@ This project presents a financial analytics dashboard built in Power BI to analy
 ## Project Files
 - `wintrust-aum-dashboard.pdf` – Dashboard export showing all visualizations
 - Power BI dashboard demonstrating advisor analytics and asset growth insights
+<img width="1920" height="1081" alt="image" src="https://github.com/user-attachments/assets/76429754-3885-44b9-ad8d-3dfffa4e6562" />
