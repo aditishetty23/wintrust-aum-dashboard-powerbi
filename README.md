@@ -39,6 +39,13 @@ The dataset enables analysis of portfolio growth, advisor performance, and asset
 - DAX Measures
 - Financial Data Visualization
 
+## Example Business Questions Answered
+
+- Which advisors manage the highest AUM?
+- What is the monthly growth trend of assets under management?
+- Which investment products dominate the portfolio allocation?
+- Which households show declining asset trends and may be at risk?
+
 ## Project Files
 - `wintrust-aum-dashboard.pdf` – Dashboard export showing all visualizations
 - Power BI dashboard demonstrating advisor analytics and asset growth insights
